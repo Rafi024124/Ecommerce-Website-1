@@ -19,7 +19,7 @@ if(cartItems.length === 0){
         <p className='text-gray-600 mb-4'>
           Add Some Products to your Cart to see them here
         </p>
-        <Link to={"/"} className="inline-block px-6 py-2 rounded-lg hover:bg-zinc-300" >Continue Shopping </Link>
+        <Link to={"/"} className='inline-block px-6 py-2 rounded-lg hover:bg-zinc-300 bg-red-300  p-3' >Continue Shopping</Link>
       </div>
     </div>
 

@@ -25,7 +25,7 @@ const dispatch = useDispatch()
      
       <div className="bg"></div>
       <div className="container mx-auto my-10 px-2">
-        <div>
+        <div className="flex flex-wrap gap-2 mb-4">
           {categories.map((category, index) => {
             return (
               <button

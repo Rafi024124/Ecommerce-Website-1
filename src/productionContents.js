@@ -37,7 +37,7 @@ export const products = [
     price: 900,
     category: "Laptop",
     description: "Sleek laptop designed for productivity and business tasks.",
-    image: "/src/assets/laptop2.webp",
+    image: "/src/assets/laptop9.webp",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const products = [
     price: 1500,
     category: "Laptop",
     description: "Lightweight ultrabook with long battery life.",
-    image: "/src/assets/laptop3.webp",
+    image: "/src/assets/laptop10.webp",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const products = [
     price: 400,
     category: "Monitor",
     description: "Stunning 4K monitor for immersive viewing experience.",
-    image: "/src/assets/laptop4.webp",
+    image: "/src/assets/monitor2.webp",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const products = [
     price: 350,
     category: "Monitor",
     description: "Curved monitor with high refresh rate for gaming.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/monitor3.webp",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const products = [
     price: 200,
     category: "Monitor",
     description: "Lightweight portable monitor for on-the-go productivity.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/monitor4.webp",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const products = [
     price: 1100,
     category: "Laptop",
     description: "All-rounder laptop for work and play.",
-    image: "/src/assets/laptop3.webp",
+    image: "/src/assets/laptop8.webp",
   },
   {
     id: 11,
@@ -93,7 +93,7 @@ export const products = [
     price: 450,
     category: "Monitor",
     description: "Monitor with high refresh rate for smoother gameplay.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/monitor8.webp",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const products = [
     price: 800,
     category: "Laptop",
     description: "Thin and light laptop for easy portability.",
-    image: "/src/assets/laptop3.webp",
+    image: "/src/assets/laptop7.webp",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const products = [
     price: 300,
     category: "Monitor",
     description: "Monitor specifically designed for gaming.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/monitor6.webp",
   },
   {
     id: 15,
@@ -117,23 +117,23 @@ export const products = [
     price: 600,
     category: "Monitor",
     description: "High-quality monitor for graphic design and video editing.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/monitor7.webp",
   },
   {
     id: 16,
     title: "Affordable Graphics Card",
-    price: 80,
+    price: 6800,
     category: "Graphics Card",
     description: "Budget-friendly graphics card for casual gaming.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/graphic4.jpg",
   },
   {
     id: 17,
     title: "High-End Graphics Card",
-    price: 200,
+    price: 7000,
     category: "Graphics Card",
     description: "Top-tier graphics card for enthusiasts.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/graphic6.jpg",
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const products = [
     price: 250,
     category: "Monitor",
     description: "Reliable monitor for office use with good color accuracy.",
-    image: "/src/assets/Second.webp",
+    image: "/src/assets/monitor1.webp",
   },
   {
     id: 19,
