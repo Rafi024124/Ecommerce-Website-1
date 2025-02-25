@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg {
+  background: url("./assets/Home.png");
+  background-size: cover;
+  height: 70vh;
+  position: relative;
+}
+
+/* Add an overlay */
+.bg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* Dark overlay */
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.8); /* Inner shadow effect */
+}
+
